@@ -13,7 +13,6 @@ logs/*.log
 .env
 
 # Build output
-dist/
 build/
 
 # Editor directories and files
