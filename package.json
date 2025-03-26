@@ -1,7 +1,7 @@
 {
   "name": "uptask_backend",
   "version": "1.0.0",
-  "main": "src/index.js",
+  "main": "node ./dist/index.js",
   "scripts": {
     "dev": "nodemon --exec ts-node src/index.ts",
     "dev:api": "nodemon --exec ts-node src/index.ts --api",
